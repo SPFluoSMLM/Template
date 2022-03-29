@@ -22,7 +22,6 @@ author = "Luc Vedrenne"
 author_email = "vedrenneluc@gmail.com"
 
 
-
 with open(_here / "README.md", "r") as f:
     readme = f.read()
 

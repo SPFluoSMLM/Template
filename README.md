@@ -1,45 +1,26 @@
-<!--
-+----------------------------------------------------------------------------------------------+
-|                                                                                              |
-|                                               MAIN TITLE                                     |
-|                                                                                              |
-+----------------------------------------------------------------------------------------------+
--->
-
 # Python Github Repository Template 
 
+# What does it provide ?
 
-
-<!--
-+----------------------------------------------------------------------------------------------+
-|                                                                                              |
-|                                          TABLE OF CONTENTS                                   |
-|                                                                                              |
-+----------------------------------------------------------------------------------------------+
- -->
-
-
-<!--
-+----------------------------------------------------------------------------------------------+
-|                                                                                              |
-|                                     LAST COMMIT CHANGES LOG                                  |
-|                                                                                              |
-+----------------------------------------------------------------------------------------------+
- -->
-
-# Template
-
-A simple template for Python Github repo, including
 - .gitignore
 - .flake8 rules
-- basic material mkdocs setup
+- basic material mkdocs setup with auto doc and auto hosting
+- barebone setup.py for Pypi publishing
 
 
-# Documentation
+# Dummy Documentation
 
-**The preamble of the mkdocs.yaml file should be adapted to any repo for the docs to work.**
 A documentation is available [here](https://spfluosmlm.github.io/Template/).
 
 
+# What should be done to adapt this template ?
+
+- Update README
+- Update requirements.txt
+- in [mdkocs.yml](mkdocs.yml):
+    - update preamble infos
+    - update nav
+- in [setup.py](setup.py):
+    - update preamble infos
 
 
