@@ -6,7 +6,7 @@ repo_url: https://github.com/SPFluoSMLM/Template
 repo_name: SPFluoSMLM/Template
 # No edit button, as some of our pages are in /docs and some in /examples via symlink, so it's
 # impossible for them all to be accurate.
-# edit_uri: ""
+edit_uri: ""
 strict: true  # Don't allow warnings during the build process
 
 
