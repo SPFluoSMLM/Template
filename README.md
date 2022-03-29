@@ -24,3 +24,8 @@ A documentation is available [here](https://spfluosmlm.github.io/Template/).
     - update preamble infos
 
 
+# Disclaimer
+
+Note that a majority of the code in this repo has been copied from the excessively great [Equinox repo](https://github.com/patrick-kidger/equinox).
+
+
