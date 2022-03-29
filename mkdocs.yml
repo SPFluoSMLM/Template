@@ -22,7 +22,8 @@ theme:
         - navigation.tracking # Update URL with active anchor
         - navigation.top # Back to top button when scrolling down
         # Table of contents is integrated on the left; does not appear separately on the right.
-        - toc.integrate  
+        # - toc.integrate
+        - toc.follow  # active anchor is always visible  
         - header.autohide  # header disappears as you scroll
     palette:
         # Light mode / dark mode
