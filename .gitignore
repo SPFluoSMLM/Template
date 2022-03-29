@@ -37,7 +37,6 @@ datasamples/
 **logs/
 
 # Data not intended for deployment
-**.txt
 **.m
 # **notebooks**
 
