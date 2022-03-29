@@ -1,6 +1,6 @@
 # Python Github Repository Template 
 
-# What does it provide ?
+## What does it provide ?
 
 - .gitignore
 - .flake8 rules
@@ -8,12 +8,12 @@
 - barebone setup.py for Pypi publishing
 
 
-# Dummy Documentation
+## Dummy Documentation
 
 A documentation is available [here](https://spfluosmlm.github.io/Template/).
 
 
-# What should be done to adapt this template ?
+## What should be done to adapt this template ?
 
 - Update README
 - Update requirements.txt
@@ -24,7 +24,7 @@ A documentation is available [here](https://spfluosmlm.github.io/Template/).
     - update preamble infos
 
 
-# Disclaimer
+## Disclaimer
 
 Note that a majority of the code in this repo has been copied from the excessively great [Equinox repo](https://github.com/patrick-kidger/equinox).
 
